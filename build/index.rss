@@ -8,7 +8,7 @@
     <title>friend club RSS Feed</title>
     <link>https://friendclub.lol/</link>
     <description>The official RSS Feed for https://friendclub.lol/</description>
-    <pubDate>Sun, 10 Nov 2024 03:32:58 -0500</pubDate>
+    <pubDate>Sun, 10 Nov 2024 03:47:50 -0500</pubDate>
     <item>
       <title>mhouse 2</title>
       <link>https://friendclub.lol//posts/maghouse/</link>
@@ -219,6 +219,6 @@ which you wish to be displayed literally, ex.: `foo`, *bar*, etc.&lt;/p&gt;
       <pubDate>Sat, 20 Jul 2024 12:00:00 -0400</pubDate>
       <dc:date>2024-07-20T12:00:00-04:00</dc:date>
     </item>
-    <dc:date>2024-11-10T03:32:58-05:00</dc:date>
+    <dc:date>2024-11-10T03:47:50-05:00</dc:date>
   </channel>
 </rss>
