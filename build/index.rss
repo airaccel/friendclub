@@ -8,36 +8,7 @@
     <title>friend club RSS Feed</title>
     <link>https://friendclub.lol/</link>
     <description>The official RSS Feed for https://friendclub.lol/</description>
-    <pubDate>Sun, 10 Nov 2024 17:30:25 -0500</pubDate>
-    <item>
-      <title>vr_nuke</title>
-      <link>https://friendclub.lol//posts/vr_nuke/</link>
-      <description>&lt;h1 id=&quot;vrnuke&quot;&gt;vr_nuke&lt;/h1&gt;
-
-&lt;p&gt;2024-00-00&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/public/images/&quot; alt=&quot;poster&quot; title=&quot;poster by xxx&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;info&quot;&gt;info&lt;/h2&gt;
-
-&lt;p&gt;hosted at a vr recreation of counter strike 2’s de_nuke B site. twenty minute sets.&lt;/p&gt;
-
-&lt;h2 id=&quot;sets&quot;&gt;sets&lt;/h2&gt;
-
-&lt;p&gt;andy
-phresh
-ejay
-suena
-jnzi
-moonbeam
-noxer
-okgold
-tee
-condemn&lt;/p&gt;
-</description>
-      <pubDate>Sun, 10 Nov 2024 12:00:00 -0500</pubDate>
-      <dc:date>2024-11-10T12:00:00-05:00</dc:date>
-    </item>
+    <pubDate>Sun, 10 Nov 2024 17:34:20 -0500</pubDate>
     <item>
       <title>gestalt</title>
       <link>https://friendclub.lol//posts/gestalt/</link>
@@ -276,6 +247,35 @@ mona, jnzi, jexxe, olivia, pahdron, condemn&lt;/p&gt;
       <dc:date>2024-03-01T12:00:00-05:00</dc:date>
     </item>
     <item>
+      <title>vr_nuke</title>
+      <link>https://friendclub.lol//posts/vr_nuke/</link>
+      <description>&lt;h1 id=&quot;vrnuke&quot;&gt;vr_nuke&lt;/h1&gt;
+
+&lt;p&gt;2023-12-15&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/public/images/&quot; alt=&quot;poster&quot; title=&quot;poster by xxx&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;info&quot;&gt;info&lt;/h2&gt;
+
+&lt;p&gt;hosted at a vr recreation of counter strike 2’s de_nuke B site. twenty minute sets.&lt;/p&gt;
+
+&lt;h2 id=&quot;sets&quot;&gt;sets&lt;/h2&gt;
+
+&lt;p&gt;andy
+phresh
+ejay
+suena
+jnzi
+moonbeam
+noxer
+okgold
+tee
+condemn&lt;/p&gt;
+</description>
+      <pubDate>Fri, 15 Dec 2023 12:00:00 -0500</pubDate>
+      <dc:date>2023-12-15T12:00:00-05:00</dc:date>
+    </item>
+    <item>
       <title>intimate, acoustic</title>
       <link>https://friendclub.lol//posts/intimate-acoustic/</link>
       <description>&lt;h1 id=&quot;intimate-acoustic&quot;&gt;intimate, acoustic&lt;/h1&gt;
@@ -436,6 +436,6 @@ ejay&lt;/p&gt;
       <pubDate>Wed, 19 Jul 2023 12:00:00 -0400</pubDate>
       <dc:date>2023-07-19T12:00:00-04:00</dc:date>
     </item>
-    <dc:date>2024-11-10T17:30:25-05:00</dc:date>
+    <dc:date>2024-11-10T17:34:20-05:00</dc:date>
   </channel>
 </rss>
