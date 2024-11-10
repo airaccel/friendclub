@@ -8,22 +8,49 @@
     <title>friend club RSS Feed</title>
     <link>https://friendclub.lol/</link>
     <description>The official RSS Feed for https://friendclub.lol/</description>
-    <pubDate>Sun, 10 Nov 2024 03:47:50 -0500</pubDate>
-    <item>
-      <title>mhouse 2</title>
-      <link>https://friendclub.lol//posts/maghouse/</link>
-      <description>&lt;h1 id=&quot;mhouse-2&quot;&gt;mhouse 2&lt;/h1&gt;
-</description>
-      <pubDate>Sun, 10 Nov 2024 12:00:00 -0500</pubDate>
-      <dc:date>2024-11-10T12:00:00-05:00</dc:date>
-    </item>
+    <pubDate>Sun, 10 Nov 2024 06:08:25 -0500</pubDate>
     <item>
       <title>gestalt</title>
       <link>https://friendclub.lol//posts/gestalt/</link>
       <description>&lt;h1 id=&quot;gestalt&quot;&gt;gestalt&lt;/h1&gt;
+
+&lt;p&gt;2024-10-26&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/public/images/gestalt.jpg&quot; alt=&quot;gestalt poster&quot; title=&quot;poster by ele&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;info&quot;&gt;info&lt;/h2&gt;
+&lt;p&gt;a custom map by okgold designed to revitalize a deprecated lighting system. three performers, 1.5 hour sets. lights operated by okgold and moonbeam. performances by ghost_ryft, agateline, and condemn.&lt;/p&gt;
+
+&lt;h2 id=&quot;sets&quot;&gt;sets&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://youtu.be/8Q-r0HzIFwo?si=tAbTgLVpmIjXo2HL&quot;&gt;ryft&lt;/a&gt;
+&lt;a href=&quot;https://soundcloud.com/agateline/gestalt-26-10-24&quot;&gt;agateline&lt;/a&gt;
+&lt;a href=&quot;https://soundcloud.com/teleglitch/gestalt&quot;&gt;condemn&lt;/a&gt;&lt;/p&gt;
 </description>
-      <pubDate>Sun, 10 Nov 2024 12:00:00 -0500</pubDate>
-      <dc:date>2024-11-10T12:00:00-05:00</dc:date>
+      <pubDate>Sat, 26 Oct 2024 12:00:00 -0400</pubDate>
+      <dc:date>2024-10-26T12:00:00-04:00</dc:date>
+    </item>
+    <item>
+      <title>mhouse 2</title>
+      <link>https://friendclub.lol//posts/maghouse/</link>
+      <description>&lt;h1 id=&quot;mhouse-2&quot;&gt;mhouse 2&lt;/h1&gt;
+
+&lt;p&gt;2024-10-04&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://x.com/okgoldvr/status/1841148454459838623&quot; alt=&quot;poster&quot; title=&quot;poster by okgold&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;info&quot;&gt;info&lt;/h2&gt;
+
+&lt;p&gt;our 2nd running of the okgold’s vr recreation of the 2024 magfest airbnb, featuring exclusively crafted fog from Raz, visuals by Silent, Gwiz, and iggi, and performances from JNZi, smited, Mona, Noxer, Tacical, moonbeam, and Lamp DX.&lt;/p&gt;
+
+&lt;h2 id=&quot;sets&quot;&gt;sets&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://soundcloud.com/smitedvr/smited-b2b-y2fae-friend-club-m-house-2&quot;&gt;smited b2b y2fae&lt;/a&gt;
+&lt;a href=&quot;https://soundcloud.com/coolcat-mona/mona-m-house-2&quot;&gt;mona&lt;/a&gt;
+&lt;a href=&quot;https://on.soundcloud.com/YakEg5V43XZgtknX6&quot;&gt;tacical&lt;/a&gt;
+&lt;a href=&quot;https://archive.org/details/mnbm-maghouse-2&quot;&gt;moonbeam&lt;/a&gt;&lt;/p&gt;
+</description>
+      <pubDate>Fri, 04 Oct 2024 12:00:00 -0400</pubDate>
+      <dc:date>2024-10-04T12:00:00-04:00</dc:date>
     </item>
     <item>
       <title>Markdown Examples in wruby</title>
@@ -219,6 +246,6 @@ which you wish to be displayed literally, ex.: `foo`, *bar*, etc.&lt;/p&gt;
       <pubDate>Sat, 20 Jul 2024 12:00:00 -0400</pubDate>
       <dc:date>2024-07-20T12:00:00-04:00</dc:date>
     </item>
-    <dc:date>2024-11-10T03:47:50-05:00</dc:date>
+    <dc:date>2024-11-10T06:08:25-05:00</dc:date>
   </channel>
 </rss>
