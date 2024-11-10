@@ -30,11 +30,6 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
-      # Copy the CNAME file from the root of the main branch to the build folder
-      - name: Copy CNAME file
-        run: |
-          cp CNAME ./build/
-
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
