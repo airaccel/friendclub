@@ -8,7 +8,7 @@
     <title>friend club RSS Feed</title>
     <link>https://friendclub.lol/</link>
     <description>The official RSS Feed for https://friendclub.lol/</description>
-    <pubDate>Tue, 12 Nov 2024 22:09:59 -0500</pubDate>
+    <pubDate>Wed, 13 Nov 2024 04:12:16 -0500</pubDate>
     <item>
       <title>gestalt</title>
       <link>https://friendclub.lol//posts/gestalt/</link>
@@ -860,6 +860,6 @@ catboy&lt;/p&gt;
       <pubDate>Wed, 09 Mar 2022 12:00:00 -0500</pubDate>
       <dc:date>2022-03-09T12:00:00-05:00</dc:date>
     </item>
-    <dc:date>2024-11-12T22:09:59-05:00</dc:date>
+    <dc:date>2024-11-13T04:12:16-05:00</dc:date>
   </channel>
 </rss>
