@@ -8,7 +8,7 @@
     <title>friend club RSS Feed</title>
     <link>https://friendclub.lol/</link>
     <description>The official RSS Feed for https://friendclub.lol/</description>
-    <pubDate>Tue, 12 Nov 2024 21:47:54 -0500</pubDate>
+    <pubDate>Tue, 12 Nov 2024 22:04:39 -0500</pubDate>
     <item>
       <title>gestalt</title>
       <link>https://friendclub.lol//posts/gestalt/</link>
@@ -63,13 +63,13 @@
 
 &lt;h2 id=&quot;info&quot;&gt;info&lt;/h2&gt;
 
-&lt;p&gt;a collaborative event at vbm’s “vrc living quarters” world, featuring darker and hypnotic soundscapes.&lt;/p&gt;
+&lt;p&gt;a collaborative event at vbm’s “vrc living quarters” world, featuring dark and hostile soundscapes.&lt;/p&gt;
 
 &lt;h2 id=&quot;sets&quot;&gt;sets&lt;/h2&gt;
 
-&lt;p&gt;vbm
-twenty
-condemn
+&lt;p&gt;&lt;a href=&quot;https://soundcloud.com/winivbm/residence&quot;&gt;vbm&lt;/a&gt;
+&lt;a href=&quot;https://archive.org/details/twenty-residence&quot;&gt;twenty&lt;/a&gt;
+&lt;a href=&quot;https://soundcloud.com/teleglitch/residence&quot;&gt;condemn&lt;/a&gt;
 tacical&lt;/p&gt;
 </description>
       <pubDate>Sat, 21 Sep 2024 12:00:00 -0400</pubDate>
@@ -113,8 +113,8 @@ rob roman’s voice&lt;/p&gt;
 
 &lt;h2 id=&quot;sets&quot;&gt;sets&lt;/h2&gt;
 
-&lt;p&gt;smited
-y2fae
+&lt;p&gt;&lt;a href=&quot;https://archive.org/details/friendclubaugsmitednet&quot;&gt;smited&lt;/a&gt;
+&lt;a href=&quot;https://soundcloud.com/y2fae/aug-10-friend-club-set&quot;&gt;y2fae&lt;/a&gt;
 phosphorrgirl
 vbm&lt;/p&gt;
 </description>
@@ -139,7 +139,7 @@ vbm&lt;/p&gt;
 &lt;p&gt;moonbeam
 pahdron
 suena
-vbm&lt;/p&gt;
+&lt;a href=&quot;https://soundcloud.com/winivbm/vbm_gay&quot;&gt;vbm&lt;/a&gt;&lt;/p&gt;
 </description>
       <pubDate>Wed, 26 Jun 2024 12:00:00 -0400</pubDate>
       <dc:date>2024-06-26T12:00:00-04:00</dc:date>
@@ -158,8 +158,8 @@ vbm&lt;/p&gt;
 &lt;h2 id=&quot;sets&quot;&gt;sets&lt;/h2&gt;
 
 &lt;p&gt;okgold (vinyl)
-JessXO
-xxhardbit3s
+&lt;a href=&quot;https://on.soundcloud.com/oivD6sRJmHjAaZAA9&quot;&gt;JESSXO&lt;/a&gt;
+&lt;a href=&quot;https://on.soundcloud.com/6wr86PBZcUvS68Nt5&quot;&gt;xxhardbit3s&lt;/a&gt;
 Lamp DX&lt;/p&gt;
 </description>
       <pubDate>Wed, 26 Jun 2024 12:00:00 -0400</pubDate>
@@ -218,7 +218,7 @@ Lamp DX&lt;/p&gt;
 
 &lt;h2 id=&quot;sets&quot;&gt;sets&lt;/h2&gt;
 
-&lt;p&gt;okgold, twenty, suena, xxhardbit3s&lt;/p&gt;
+&lt;p&gt;okgold, &lt;a href=&quot;https://archive.org/details/golden-sunset&quot;&gt;twenty&lt;/a&gt;, suena, xxhardbit3s&lt;/p&gt;
 </description>
       <pubDate>Wed, 10 Apr 2024 12:00:00 -0400</pubDate>
       <dc:date>2024-04-10T12:00:00-04:00</dc:date>
@@ -239,7 +239,7 @@ Lamp DX&lt;/p&gt;
 &lt;h2 id=&quot;sets&quot;&gt;sets&lt;/h2&gt;
 
 &lt;p&gt;-130: (vj silent)
-twenty, tacical, lamp dx, suena, los
+&lt;a href=&quot;https://archive.org/details/plus-minus_202403&quot;&gt;twenty&lt;/a&gt;, tacical, lamp dx, suena, los
 +130: (vj beesha)
 mona, jnzi, jexxe, olivia, pahdron, condemn&lt;/p&gt;
 </description>
@@ -860,6 +860,6 @@ catboy&lt;/p&gt;
       <pubDate>Wed, 09 Mar 2022 12:00:00 -0500</pubDate>
       <dc:date>2022-03-09T12:00:00-05:00</dc:date>
     </item>
-    <dc:date>2024-11-12T21:47:54-05:00</dc:date>
+    <dc:date>2024-11-12T22:04:39-05:00</dc:date>
   </channel>
 </rss>
