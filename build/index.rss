@@ -8,7 +8,30 @@
     <title>friend club RSS Feed</title>
     <link>https://friendclub.lol/</link>
     <description>The official RSS Feed for https://friendclub.lol/</description>
-    <pubDate>Wed, 13 Nov 2024 04:14:03 -0500</pubDate>
+    <pubDate>Mon, 02 Dec 2024 21:20:15 -0500</pubDate>
+    <item>
+      <title>evocation</title>
+      <link>https://friendclub.lol//posts/evocation/</link>
+      <description>&lt;h1 id=&quot;evocation&quot;&gt;evocation&lt;/h1&gt;
+
+&lt;p&gt;2024-12-07&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/public/images/evocationweb.jpg&quot; alt=&quot;poster&quot; title=&quot;poster by sue&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;info&quot;&gt;info&lt;/h2&gt;
+
+&lt;p&gt;BREAKING NEWS: Four living plushies have been spotted all over the freaking world! A cute but fierce one hanging outside of clubs at night, an energetic and quick moving borzoi running around fields of flowers, a rabbit-like one sleeping and rolling around forests, and lastly a neon green alien cat spotted at UFO hot spots. Rumor has it that four individuals are responsible for evoking spirits into these plushies through special frequencies.&lt;/p&gt;
+
+&lt;h2 id=&quot;sets&quot;&gt;sets&lt;/h2&gt;
+
+&lt;p&gt;Depresso&lt;br /&gt;
+Olivia Fallow&lt;br /&gt;
+Suena&lt;br /&gt;
+Yurinemu&lt;/p&gt;
+</description>
+      <pubDate>Sat, 07 Dec 2024 12:00:00 -0500</pubDate>
+      <dc:date>2024-12-07T12:00:00-05:00</dc:date>
+    </item>
     <item>
       <title>gestalt</title>
       <link>https://friendclub.lol//posts/gestalt/</link>
@@ -860,6 +883,6 @@ catboy&lt;/p&gt;
       <pubDate>Wed, 09 Mar 2022 12:00:00 -0500</pubDate>
       <dc:date>2022-03-09T12:00:00-05:00</dc:date>
     </item>
-    <dc:date>2024-11-13T04:14:03-05:00</dc:date>
+    <dc:date>2024-12-02T21:20:15-05:00</dc:date>
   </channel>
 </rss>
