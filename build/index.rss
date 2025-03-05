@@ -8,7 +8,31 @@
     <title>friend club RSS Feed</title>
     <link>https://friendclub.lol/</link>
     <description>The official RSS Feed for https://friendclub.lol/</description>
-    <pubDate>Wed, 12 Feb 2025 21:07:35 -0500</pubDate>
+    <pubDate>Wed, 05 Mar 2025 09:34:25 -0500</pubDate>
+    <item>
+      <title>uplink</title>
+      <link>https://friendclub.lol//posts/uplink/</link>
+      <description>&lt;h1 id=&quot;uplink&quot;&gt;uplink&lt;/h1&gt;
+
+&lt;p&gt;2025-03-07&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/public/images/uplink.png&quot; alt=&quot;poster&quot; title=&quot;poster by ele&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;info&quot;&gt;info&lt;/h2&gt;
+
+&lt;p&gt;a kz inspired multi-level map with various different places to mingle. arealit fueled lighting with visual projections on the platforms. kinda my first map for an event yay (-ele) !&lt;/p&gt;
+
+&lt;p&gt;visuals by silent, jiqqler, and haxeria. map technology by okgold.&lt;/p&gt;
+
+&lt;h2 id=&quot;sets&quot;&gt;sets&lt;/h2&gt;
+
+&lt;p&gt;jerk
+lamp
+condemn&lt;/p&gt;
+</description>
+      <pubDate>Fri, 07 Mar 2025 12:00:00 -0500</pubDate>
+      <dc:date>2025-03-07T12:00:00-05:00</dc:date>
+    </item>
     <item>
       <title>residence: cathedral</title>
       <link>https://friendclub.lol//posts/residence-cathedral/</link>
@@ -28,12 +52,37 @@ come home&lt;/p&gt;
 &lt;h2 id=&quot;sets&quot;&gt;sets&lt;/h2&gt;
 
 &lt;p&gt;mingo
-vbm.
-ryft
-boo&lt;/p&gt;
+&lt;a href=&quot;https://archive.org/details/residencecathedral&quot;&gt;vbm.&lt;/a&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=vp1oYGJSi0E&quot;&gt;ryft&lt;/a&gt;
+&lt;a href=&quot;https://soundcloud.com/boospace/residence&quot;&gt;boo&lt;/a&gt;&lt;/p&gt;
 </description>
       <pubDate>Sat, 15 Feb 2025 12:00:00 -0500</pubDate>
       <dc:date>2025-02-15T12:00:00-05:00</dc:date>
+    </item>
+    <item>
+      <title>residence: fifth floor</title>
+      <link>https://friendclub.lol//posts/residence5f/</link>
+      <description>&lt;h1 id=&quot;residence-fifth-floor&quot;&gt;residence: fifth floor&lt;/h1&gt;
+
+&lt;p&gt;2024-12-21&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/public/images/residence5f.jpg&quot; alt=&quot;poster&quot; title=&quot;poster by wini&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;info&quot;&gt;info&lt;/h2&gt;
+
+&lt;p&gt;dark ambient &amp;amp; noise sets on the fifth floor of residence’s living quarters building.&lt;/p&gt;
+
+&lt;h2 id=&quot;sets&quot;&gt;sets&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://on.soundcloud.com/yoCURgfbwJRqngAw9&quot;&gt;endless&lt;/a&gt;
+&lt;a href=&quot;https://soundcloud.com/teleglitch/residence5f&quot;&gt;condemn&lt;/a&gt;
+&lt;a href=&quot;https://youtu.be/p9PDuRrW2AA?si=TC2cfm3xpXzp12di&quot;&gt;slippymudman&lt;/a&gt;
+&lt;a href=&quot;https://soundcloud.com/winivbm/residencefifthfloor&quot;&gt;vbm.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=JPDeuXIQ8R8&quot;&gt;full vod&lt;/a&gt;&lt;/p&gt;
+</description>
+      <pubDate>Sat, 21 Dec 2024 12:00:00 -0500</pubDate>
+      <dc:date>2024-12-21T12:00:00-05:00</dc:date>
     </item>
     <item>
       <title>evocation</title>
@@ -909,6 +958,6 @@ catboy&lt;/p&gt;
       <pubDate>Wed, 09 Mar 2022 12:00:00 -0500</pubDate>
       <dc:date>2022-03-09T12:00:00-05:00</dc:date>
     </item>
-    <dc:date>2025-02-12T21:07:35-05:00</dc:date>
+    <dc:date>2025-03-05T09:34:25-05:00</dc:date>
   </channel>
 </rss>
