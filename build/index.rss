@@ -8,7 +8,29 @@
     <title>friend club RSS Feed</title>
     <link>https://friendclub.lol/</link>
     <description>The official RSS Feed for https://friendclub.lol/</description>
-    <pubDate>Wed, 26 Mar 2025 18:53:37 -0400</pubDate>
+    <pubDate>Fri, 30 May 2025 16:21:12 -0400</pubDate>
+    <item>
+      <title>+/- 130 Again</title>
+      <link>https://friendclub.lol//posts/130-plus-two/</link>
+      <description>&lt;h1 id=&quot;again&quot;&gt;+/- 130 Again&lt;/h1&gt;
+
+&lt;p&gt;2025-05-30&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/public/images/130two.png&quot; alt=&quot;poster&quot; title=&quot;poster by ele&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;info&quot;&gt;info&lt;/h2&gt;
+
+&lt;p&gt;a revamped version of our two room simultaneous dj venue from 2024. now featuring stereo audio.&lt;/p&gt;
+
+&lt;h2 id=&quot;sets&quot;&gt;sets&lt;/h2&gt;
+
+&lt;p&gt;-130 (vj silent): suena klu3 phresh tacical b2b condemn&lt;/p&gt;
+
+&lt;p&gt;+130 (vj beesha): smited, y2fae, vbm., ollie, may&lt;/p&gt;
+</description>
+      <pubDate>Fri, 30 May 2025 12:00:00 -0400</pubDate>
+      <dc:date>2025-05-30T12:00:00-04:00</dc:date>
+    </item>
     <item>
       <title>uplink</title>
       <link>https://friendclub.lol//posts/uplink/</link>
@@ -958,6 +980,6 @@ catboy&lt;/p&gt;
       <pubDate>Wed, 09 Mar 2022 12:00:00 -0500</pubDate>
       <dc:date>2022-03-09T12:00:00-05:00</dc:date>
     </item>
-    <dc:date>2025-03-26T18:53:37-04:00</dc:date>
+    <dc:date>2025-05-30T16:21:12-04:00</dc:date>
   </channel>
 </rss>
