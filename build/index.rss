@@ -8,7 +8,57 @@
     <title>friend club RSS Feed</title>
     <link>https://friendclub.lol/</link>
     <description>The official RSS Feed for https://friendclub.lol/</description>
-    <pubDate>Fri, 30 May 2025 16:21:12 -0400</pubDate>
+    <pubDate>Tue, 17 Jun 2025 22:14:16 -0400</pubDate>
+    <item>
+      <title>residence: fifth floor</title>
+      <link>https://friendclub.lol//posts/residence5f-2/</link>
+      <description>&lt;h1 id=&quot;residence-fifth-floor&quot;&gt;residence: fifth floor&lt;/h1&gt;
+
+&lt;p&gt;2025-06-21 @ 9:00PM ET&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/public/images/r5f2jpg.jpg&quot; alt=&quot;poster&quot; title=&quot;poster by vbm.&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;info&quot;&gt;info&lt;/h2&gt;
+
+&lt;p&gt;a second life after decay&lt;/p&gt;
+
+&lt;p&gt;noise, ambient&lt;br /&gt;
+gather at the highest point&lt;br /&gt;
+for the shortest night&lt;/p&gt;
+
+&lt;h2 id=&quot;sets&quot;&gt;sets&lt;/h2&gt;
+
+&lt;p&gt;vbm.&lt;br /&gt;
+mel&lt;br /&gt;
+agateline&lt;br /&gt;
+derrick thomas henry&lt;/p&gt;
+</description>
+      <pubDate>Sat, 21 Jun 2025 12:00:00 -0400</pubDate>
+      <dc:date>2025-06-21T12:00:00-04:00</dc:date>
+    </item>
+    <item>
+      <title>Golden Sunset @ The Function</title>
+      <link>https://friendclub.lol//posts/gsun-function/</link>
+      <description>&lt;h1 id=&quot;golden-sunset--the-function&quot;&gt;Golden Sunset @ The Function&lt;/h1&gt;
+
+&lt;p&gt;2025-06-20 @ 10:00PM ET&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/public/images/gsunfunc.jpg&quot; alt=&quot;poster&quot; title=&quot;poster by okgold. poster is originally video format.&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;info&quot;&gt;info&lt;/h2&gt;
+
+&lt;p&gt;Hosted at Okgold’s modified version of Gwiz’s “The Function” world with light volume compatibility and other surprises.&lt;/p&gt;
+
+&lt;h2 id=&quot;sets&quot;&gt;sets&lt;/h2&gt;
+
+&lt;p&gt;Gwiz&lt;br /&gt;
+Shuah&lt;br /&gt;
+Ejay&lt;br /&gt;
+Yuna&lt;/p&gt;
+</description>
+      <pubDate>Fri, 20 Jun 2025 12:00:00 -0400</pubDate>
+      <dc:date>2025-06-20T12:00:00-04:00</dc:date>
+    </item>
     <item>
       <title>+/- 130 Again</title>
       <link>https://friendclub.lol//posts/130-plus-two/</link>
@@ -980,6 +1030,6 @@ catboy&lt;/p&gt;
       <pubDate>Wed, 09 Mar 2022 12:00:00 -0500</pubDate>
       <dc:date>2022-03-09T12:00:00-05:00</dc:date>
     </item>
-    <dc:date>2025-05-30T16:21:12-04:00</dc:date>
+    <dc:date>2025-06-17T22:14:16-04:00</dc:date>
   </channel>
 </rss>
